@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://static.wikia.nocookie.net/the-backrooms-braedens-lore/images/0/09/Aaaa612c16ad8a2b9.gif/revision/latest?cb=20230103041145" width="30px">
+# Mariah Navarro <img src="https://static.wikia.nocookie.net/the-backrooms-braedens-lore/images/0/09/Aaaa612c16ad8a2b9.gif/revision/latest?cb=20230103041145" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
