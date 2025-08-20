@@ -1,6 +1,6 @@
 # Mariah Navarro <img src="https://static.wikia.nocookie.net/the-backrooms-braedens-lore/images/0/09/Aaaa612c16ad8a2b9.gif/revision/latest?cb=20230103041145" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Mariah Navarro</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
