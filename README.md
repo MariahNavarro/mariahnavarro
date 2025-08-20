@@ -1,5 +1,5 @@
 # Mariah Navarro <img src="https://static.wikia.nocookie.net/the-backrooms-braedens-lore/images/0/09/Aaaa612c16ad8a2b9.gif/revision/latest?cb=20230103041145" width="30px">
-<strong>Me chamo Mariah Navarro</strong>, <strong>Tenho 20 anos.<br/> Formação Técnica em Eletrônica e Profissionalizante em Programação.<br/> Atualemnte estou cursando Análise e Desenvolvimento de Sistemas na faculdade SENAC</strong> 
+<strong>Me chamo Mariah Navarro</strong>, <strong>Tenho 20 anos.<br/> Formação Técnica em Eletrônica e Profissionalizante em Programação.<br/> Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade SENAC</strong> 
 
 - 🚀 Atualmente estou aprendendo: <strong>Html, Css e JavaScript</strong> 
 - 💬 Pergunte-me sobre: <strong>True crime, anime e conteúdos nerdisticos</strong>
