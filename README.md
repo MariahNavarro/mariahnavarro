@@ -2,9 +2,9 @@
 
 Eu sou <strong>Mariah Navarro</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Html, Css e JavaScript</strong> 
+- 💬 Pergunte-me sobre: <strong>True crime, anime e conteúdos nerdisticos</strong>
+- 📣 Nós podemos falar em: <strong>Pt-br</strong>
 
 <div align="center">
 
