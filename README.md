@@ -1,4 +1,4 @@
-# [Seu nome] <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthe-backrooms-braedens-lore.fandom.com%2Fwiki%2FLevel_702&psig=AOvVaw3HlWmsV4Rrcy2WzoXK9R36&ust=1755734893301000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCkmaeMmI8DFQAAAAAdAAAAABAL)" width="30px">
+# [Seu nome] <img src="https://static.wikia.nocookie.net/the-backrooms-braedens-lore/images/0/09/Aaaa612c16ad8a2b9.gif/revision/latest?cb=20230103041145" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
